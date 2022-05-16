@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "langhnojadeep1851@gmail.com",
+      "email": "langhnojadeep1851@gmail.com",
+      "mobile": "06351418098",
+      "address": "A4 sandipani society, Bhaikaka nagar, Thaltej",
+      "services": "dfgjnhf"
+    },
+    {
+      "id": 3,
+      "name": "Deep",
+      "email": "langhnojadeep1851@gmail.com",
+      "mobile": "06351418098",
+      "address": "A4 sandipani society, Bhaikaka nagar, Thaltej",
+      "services": "sfdh"
+    },
+    {
+      "id": 4,
+      "name": "harsh",
+      "email": "langhnojadeep1851@gmail.com",
+      "mobile": "06351418098",
+      "address": "A4 sandipani society, Bhaikaka nagar, Thaltej",
+      "services": ""
+    },
+    {
+      "id": 5,
+      "name": "harsh",
+      "email": "harsh@gmail.com",
+      "mobile": "78945611230",
+      "address": "2B",
+      "services": "fgjghb"
+    },
+    {
+      "id": 6,
+      "name": "sdf",
+      "email": "ffddf@",
+      "mobile": "ff142284187",
+      "address": "ujikolp[;'}",
+      "services": "himkj,l.;/'"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
